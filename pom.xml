@@ -29,12 +29,12 @@
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-messaging</artifactId>
-            <version>5.1.9.RELEASE</version>
+            <version>5.2.22.RELEASE</version>
         </dependency>
         <dependency>
             <groupId>org.springframework</groupId>
             <artifactId>spring-messaging</artifactId>
-            <version>5.1.9.RELEASE</version>
+            <version>5.2.22.RELEASE</version>
         </dependency>
     </dependencies>
 
